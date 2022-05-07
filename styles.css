@@ -1,0 +1,18 @@
+#title {
+    font-family: Brush Script MT;
+    font-size: 70px;
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+.page1,
+.page2,
+.page3 {
+    background-color: yellow;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: trebuchet;
+}
